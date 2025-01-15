@@ -41,6 +41,11 @@
   .about-containers {
     margin-top: 0;
   }
+
+  .section__profile_pic {
+    width: 275px;
+    height: 275px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -97,5 +102,10 @@
   }
   .text-container {
     text-align: justify;
+  }
+
+  .section__profile_pic {
+    width: 275px;
+    height: 275px;
   }
 }
